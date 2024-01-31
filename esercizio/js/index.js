@@ -1,6 +1,7 @@
 // 1) ci assicuriamo di aver caricato tutto (html,css)
 window.onload = function () {
   console.log("pagina caricata");
+  //   invoco l'ascoltatore form
   ascoltatoreForm();
 };
 
